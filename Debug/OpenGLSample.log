@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\CN_kooco\source\repos\OpenGLSample\main.cpp(81,19): warning C4244: '引數': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+F:\CN_kooco\source\repos\OpenGLSample\main.cpp(175,19): warning C4244: '引數': 將 'float' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+F:\CN_kooco\source\repos\OpenGLSample\main.cpp(177,56): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  OpenGLSample.vcxproj -> F:\CN_kooco\source\repos\OpenGLSample\Debug\OpenGLSample.exe
+  複製了         1 個檔案。

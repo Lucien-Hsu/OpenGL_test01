@@ -1,0 +1,2 @@
+F:\CN_kooco\source\repos\OpenGLSample\Debug\OpenGLSample.exe
+F:\CN_kooco\source\repos\OpenGLSample\Debug\OpenGLSample.pdb
